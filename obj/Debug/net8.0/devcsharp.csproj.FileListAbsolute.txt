@@ -1,0 +1,14 @@
+C:\devcsharp\bin\Debug\net8.0\devcsharp.exe
+C:\devcsharp\bin\Debug\net8.0\devcsharp.deps.json
+C:\devcsharp\bin\Debug\net8.0\devcsharp.runtimeconfig.json
+C:\devcsharp\bin\Debug\net8.0\devcsharp.dll
+C:\devcsharp\bin\Debug\net8.0\devcsharp.pdb
+C:\devcsharp\obj\Debug\net8.0\devcsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\devcsharp\obj\Debug\net8.0\devcsharp.AssemblyInfoInputs.cache
+C:\devcsharp\obj\Debug\net8.0\devcsharp.AssemblyInfo.cs
+C:\devcsharp\obj\Debug\net8.0\devcsharp.csproj.CoreCompileInputs.cache
+C:\devcsharp\obj\Debug\net8.0\devcsharp.dll
+C:\devcsharp\obj\Debug\net8.0\refint\devcsharp.dll
+C:\devcsharp\obj\Debug\net8.0\devcsharp.pdb
+C:\devcsharp\obj\Debug\net8.0\devcsharp.genruntimeconfig.cache
+C:\devcsharp\obj\Debug\net8.0\ref\devcsharp.dll
