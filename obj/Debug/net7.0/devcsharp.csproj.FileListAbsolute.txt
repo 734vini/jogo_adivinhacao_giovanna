@@ -1,0 +1,15 @@
+C:\Users\8206627\Desktop\trabalho\jogo_adivinhacao_giovanna\bin\Debug\net7.0\devcsharp.exe
+C:\Users\8206627\Desktop\trabalho\jogo_adivinhacao_giovanna\bin\Debug\net7.0\devcsharp.deps.json
+C:\Users\8206627\Desktop\trabalho\jogo_adivinhacao_giovanna\bin\Debug\net7.0\devcsharp.runtimeconfig.json
+C:\Users\8206627\Desktop\trabalho\jogo_adivinhacao_giovanna\bin\Debug\net7.0\devcsharp.dll
+C:\Users\8206627\Desktop\trabalho\jogo_adivinhacao_giovanna\bin\Debug\net7.0\devcsharp.pdb
+C:\Users\8206627\Desktop\trabalho\jogo_adivinhacao_giovanna\obj\Debug\net7.0\devcsharp.csproj.AssemblyReference.cache
+C:\Users\8206627\Desktop\trabalho\jogo_adivinhacao_giovanna\obj\Debug\net7.0\devcsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\8206627\Desktop\trabalho\jogo_adivinhacao_giovanna\obj\Debug\net7.0\devcsharp.AssemblyInfoInputs.cache
+C:\Users\8206627\Desktop\trabalho\jogo_adivinhacao_giovanna\obj\Debug\net7.0\devcsharp.AssemblyInfo.cs
+C:\Users\8206627\Desktop\trabalho\jogo_adivinhacao_giovanna\obj\Debug\net7.0\devcsharp.csproj.CoreCompileInputs.cache
+C:\Users\8206627\Desktop\trabalho\jogo_adivinhacao_giovanna\obj\Debug\net7.0\devcsharp.dll
+C:\Users\8206627\Desktop\trabalho\jogo_adivinhacao_giovanna\obj\Debug\net7.0\refint\devcsharp.dll
+C:\Users\8206627\Desktop\trabalho\jogo_adivinhacao_giovanna\obj\Debug\net7.0\devcsharp.pdb
+C:\Users\8206627\Desktop\trabalho\jogo_adivinhacao_giovanna\obj\Debug\net7.0\devcsharp.genruntimeconfig.cache
+C:\Users\8206627\Desktop\trabalho\jogo_adivinhacao_giovanna\obj\Debug\net7.0\ref\devcsharp.dll
